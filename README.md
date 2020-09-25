@@ -1,18 +1,23 @@
 <img src="https://github.com/dnisdv/dnisdv/blob/master/Frame%2029.png?raw=true" alt='banner' />
 
-### Hi there 👋
+<h1 align="center">Hey there <img src="https://github.com/hrittikhere/hrittikhere/blob/master/Hi.gif" width="40px" />, I am Denis👨‍💻</h1>
 
-<!--
-**dnisdv/dnisdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I love ❤️ programming and I put my focus on frontend but also like to dive in backend. Currently I not working but i do my best to search for it.
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+    <li>🌱 I’m currently learning graphql and typescript. </li>
+    <li>🔭 I’m currently working on My Web Development Projects. </li>
+    <li>⚡ Fun fact: I like drawing, but I am not good at it. 
+    <li>👯 I’m looking to Frontend job.</li>
+</ul>
+
+
+![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=dnisdv&show_icons=true&theme=dracula)
+
+
+
+<!-- Hope you Have a Nice Day -->
+
+
