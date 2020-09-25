@@ -2,22 +2,14 @@
 
 <h1 align="center">Hey there <img src="https://github.com/hrittikhere/hrittikhere/blob/master/Hi.gif" width="40px" />, I am Denis👨‍💻</h1>
 
-### I love ❤️ programming and I put my focus on frontend but also like to dive in backend. Currently I not working but i do my best to search for it.
-
+### I love ❤️ programming and I put my focus on frontend but also like to dive in backend. Currently, I not working but I do my best to search for it.
 <br />
-
 <ul>
-    <li>🌱 I’m currently learning graphql and typescript. </li>
+    <li>🌱 I’m currently learning GraphQL and TypeScript. </li>
     <li>🔭 I’m currently working on My Web Development Projects. </li>
     <li>⚡ Fun fact: I like drawing, but I am not good at it. 
-    <li>👯 I’m looking to Frontend job.</li>
+    <li>👯 I’m looking to a Frontend Dev job.</li>
 </ul>
 
 
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=dnisdv&show_icons=true&theme=dracula)
-
-
-
-<!-- Hope you Have a Nice Day -->
-
-
