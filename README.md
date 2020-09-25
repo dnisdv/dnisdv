@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there <img src="https://github.com/hrittikhere/hrittikhere/blob/master/Hi.gif" width="40px" />, I am Denis👨‍💻</h1>
 
-### I love ❤️ programming and I put my focus on frontend but also like to dive in backend. Currently, I not working but I do my best to search for it.
+<h2 align="center"> I love ❤️ programming and I put my focus on frontend but also like to dive in backend. Currently, I not working but I do my best to search for it.</h2>
 <br />
 <ul>
     <li>🌱 I’m currently learning GraphQL and TypeScript. </li>
