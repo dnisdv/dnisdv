@@ -1,4 +1,4 @@
-<img src="https://github.com/dnisdv/dnisdv/blob/master/Frame%2043.png?raw=true" width="100%" alt='banner' />
+<img src="https://github.com/dnisdv/dnisdv/blob/master/Wall.png?raw=true" width="100%" alt='banner' />
 
 
 <h3 align="center"> I love ❤️ programming and I put my focus on frontend but also like to dive in backend. Currently, I not working but I do my best to search for it.</h3>
