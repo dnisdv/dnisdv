@@ -1,4 +1,4 @@
-<img src="https://github.com/dnisdv/dnisdv/blob/master/Frame%2043.png?raw=true" alt='banner' />
+<img src="https://github.com/dnisdv/dnisdv/blob/master/Frame%2043.png?raw=true" width="100%" alt='banner' />
 
 <h1 align="center">Hey there <img src="https://github.com/dnisdv/dnisdv/blob/master/Hi.gif" width="40px" />, I am Denis👨‍💻</h1>
 
