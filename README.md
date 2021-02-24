@@ -3,7 +3,7 @@
 <h5>Status: In love with React.</h5>
 <br />
 <ul>
-    <li>🌱 I’m currently learning Docker and algorithms.</li>
+    <li>🌱 I’m currently learning Nest js.</li>
     <li>🔭 I’m currently working on portfolio projects. </li>
     <li>⚡ Fun fact: I like drawing, but I am not good at it. 
     <li>👯 I’m looking to a Frontend Dev job.</li>
