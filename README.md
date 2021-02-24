@@ -1,5 +1,5 @@
 
-<h3 align="center"> I love ❤️ programming and I put my focus on frontend but also like to dive in backend.</h3>
+<h3 align="center"> I love ❤️ programming and I put my focus on frontend but also like to dive in backend!</h3>
 <h5>Status: In love with React.</h5>
 <br />
 <ul>
